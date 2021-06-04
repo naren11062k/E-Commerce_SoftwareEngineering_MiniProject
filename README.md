@@ -4,10 +4,6 @@ Small-scale businesses and startups had huge losses due to the pandemic. Hence, 
 
 I presented my idea to a **textile store** owner and gathered key **requirements** (audio link given below) necessary to establish his business in an online platform. I also took the liberty of introducing some improvisations of my own in addition to the requirements specified by him. Instead of using the term ‘Textile’, I have generalized this system to be used for any product-based business. **SRS** and **UML Diagrams** were made after hearing the requirements audio file and then the **User Interface** was designed using the **Figma** tool (powerpoint link given below).
 
-### Requirements Audio File Link
-
-https://drive.google.com/drive/folders/15ivXDsyfs8DjloZABoGBfbawC_OEAVUg?usp=sharing
-
-### User Interface Powerpoint File Link
+### Requirements Audio and User Interface Powerpoint Link
 
 https://drive.google.com/drive/folders/15ivXDsyfs8DjloZABoGBfbawC_OEAVUg?usp=sharing
